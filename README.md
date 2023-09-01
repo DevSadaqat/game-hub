@@ -1,6 +1,6 @@
 GameHub is a video game discovery web app that helps you find new and interesting games to play. With GameHub, you can search for games by platform, genre, and more.
 
-This is the project wI nuild build to improve my react concepts
+I build this project to learn and improve react core concepts
 
 Getting Started
 
