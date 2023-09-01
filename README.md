@@ -3,6 +3,7 @@ GameHub is a video game discovery web app that helps you find new and interestin
 This is the project wI nuild build to improve my react concepts
 
 Getting Started
+
 To get started with GameHub, follow these steps:
 
 Clone this repository to your local machine.
